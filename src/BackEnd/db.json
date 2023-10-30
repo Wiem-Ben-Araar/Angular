@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "WIEM",
+      "surname": "WIWI",
+      "adresse": "SOUKRA",
+      "age": 22
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "code": "GAME",
+      "libelle": "G",
+      "prix_unitaire": 5500,
+      "taux_tva": 0.16
+    },
+    {
+      "id": 3,
+      "code": "PISCINE",
+      "libelle": "P",
+      "prix_unitaire": 10000,
+      "taux_tva": 0.22
+    }
+  ]
+}
